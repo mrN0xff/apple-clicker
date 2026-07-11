@@ -1,0 +1,6 @@
+        sleep :s
+        buy boost:b
+        cheat setting:n
+        EXIT :e
+
+        command :
