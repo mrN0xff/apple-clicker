@@ -8,7 +8,9 @@ chmod +x apple_clicker
 если linux дистрибутив выдаёт ошибку перекомпелируйте программу встроенным скриптом
 1. установите nasm (sudo apt install nasm на ubuntu/debian)
 2. введи
+   
 chmod +x cp
+
 ./cp
 
 3.запускай
